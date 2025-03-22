@@ -19,8 +19,8 @@ This project is a cloud-based inventory management system designed for e-commerc
 🛠️ Tech Stack
 Backend: Node.js (Express.js) / Python (FastAPI/Django)
 
-Frontend: React.js / Vue.js
-
-Database: MongoDB / PostgreSQL
+Frontend:html,css,js
+Database: dynamodb
 
 Cloud Services: AWS S3 (for product images), Firebase (for authentication), Google Cloud (for hosting)
+
